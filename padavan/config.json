@@ -1,0 +1,19 @@
+{
+  "baseUrl": "https://cjd6568358.3322.org:6706/api/",
+  "configUrl": "https://cjd6568358.3322.org:6706/static/padavan/config.json",
+  "selectors": {},
+  "apps": [
+    {
+      "image": "https://cjd6568358.gitee.io/static/images/xgj.png",
+      "name": "小管家",
+      "desc": "一款提供签到/密码本功能的小程序,应用数据支持云备份和导入导出",
+      "appid": "wxac884d9f8dfbc9b6"
+    },
+    {
+      "image": "https://cjd6568358.gitee.io/static/images/fxHelper.png",
+      "name": "DC1助手",
+      "desc": "智能插座DC1自建服务版小程序",
+      "appid": "wx2669eb18b229153d"
+    }
+  ]
+}
