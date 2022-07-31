@@ -12,13 +12,13 @@
   "QAList": ["Q:如何设置定时任务?", "A:在设备列表页长按设备即可找到入口"],
   "apps": [
     {
-      "image": "https://cjd6568358.gitee.io/static/images/xgj.png",
+      "image": "https://cjd6568358.3322.org:6706/static/images/xgj.png",
       "name": "小管家",
       "desc": "一款提供签到/密码本功能的小程序,应用数据支持云备份和导入导出",
       "appid": "wxac884d9f8dfbc9b6"
     },
     {
-      "image": "https://cjd6568358.gitee.io/static/images/padavan.png",
+      "image": "https://cjd6568358.3322.org:6706/static/images/padavan.png",
       "name": "padavan",
       "desc": "padavan固件路由器小程序客户端",
       "appid": "wxece8a0c6cc252952"
