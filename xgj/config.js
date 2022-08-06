@@ -4,10 +4,10 @@ var globalConfig = {
     "soterAuthCheck": true,
     "testing": false,
     "protocol": "http://",
-    "fetchWebSiteUrl": "http://www.oznewspaper.com/",
+    "fetchWebSiteUrl": "http://1s2s3s.com/",
     "selectors": {
         webSiteList: `
-        li@webSiteList{
+       .entry-content p@webSiteList{
             &{$}
         };
         `,
