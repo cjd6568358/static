@@ -8,7 +8,7 @@ var globalConfig = {
     "selectors": {
         webSiteList: `
        .entry-content p@webSiteList{
-            &{$}
+            &{$|trim()}
         };
         `,
         index: `
