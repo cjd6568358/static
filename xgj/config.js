@@ -1,8 +1,8 @@
 var globalConfig = {
     "baseUrl": "https://cjd6568358.3322.org:6706/api/",
     "configUrl": "https://cjd6568358.3322.org:6706/static/xgj/config.json",
-    "soterAuthCheck": true,
-    "testing": false,
+    "soterAuthCheck": false,
+    "testing": true,
     "protocol": "http://",
     "fetchWebSiteUrl": "http://1s2s3s.com/",
     "selectors": {
